@@ -7,7 +7,9 @@
   "jsdelivr": "selfie_segmentation.js",
   "unpkg": "selfie_segmentation.js",
   "types": "index.d.ts",
+  "author": "mhays@google.com",
   "license": "Apache-2.0",
+  "homepage": "https://google.github.io/mediapipe/solutions/selfie_segmentation",
   "keywords": [ "AR", "ML", "Augmented" ],
   "devDependencies": {
   },
