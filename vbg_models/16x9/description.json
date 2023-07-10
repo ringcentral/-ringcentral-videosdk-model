@@ -1,0 +1,14 @@
+{
+    "model_name": "vbg_model_cv_22.2.1",
+    "input": {
+        "channels": 4,
+        "width": 224,
+        "height": 128
+    },
+    "output": {
+        "channels": 2,
+        "width": 224,
+        "height": 128
+    },
+    "link": "https://app.clearml.srs.lab.nordigy.ru/projects/3dfeb120785f46bc9324bdf7efa1a3ca/models/fd1d9908ed6e4606ba9819234f1a2e44"
+}
